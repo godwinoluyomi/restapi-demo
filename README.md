@@ -28,4 +28,5 @@ Perform the following tasks
    http://localhost:3000/id
 
 View screenshots in screenshots folder.
+
 Make sure to create a .env file in the config directory
